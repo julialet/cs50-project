@@ -10,8 +10,6 @@ The main purpose of the project is to automate the process of sending birthday r
 
 The project is broken down into several functions, each responsible for a specific task: data conversion, filtering, and sending emails. These functions are well-defined, making the code easier to maintain and allowing for future expansions, such as adding support for other email providers or creating a graphical user interface (GUI) for user interaction.
 
-## Print example of email body
-[ add print img here ]
 
 ## Features
 
