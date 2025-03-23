@@ -36,7 +36,7 @@ def send_email(bd_list):
         email_body += "\nWishing them all a fantastic day ahead! 🎂🎉" 
 
         mailItem.Body = email_body
-        mailItem.To = "testeautomacaopython10@gmail.com" 
+        mailItem.To = "[email here]" 
 
         mailItem.Send()
         print("Email sent successfully!")
